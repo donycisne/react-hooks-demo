@@ -1,68 +1,59 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Hooks Demo
 
-## Available Scripts
+At React Conf 2018, Sophie Alpert and Dan Abramov introduced **Hooks**, followed by Ryan Florence demonstrating how to refactor an application to use them.
 
-In the project directory, you can run:
+You can watch the video here:
 
-### `npm start`
+➡ **[React Today and Tomorrow and 90% Cleaner React With Hooks.](https://youtu.be/dpw9EHDh2bM)**
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+You can see Ryan Florence Demo here:
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+➡ **[90% Cleaner React With Hooks.](https://github.com/ryanflorence/react-conf-2018)**
 
-### `npm test`
+----
+## 🚀 Demo
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**https://react-hooks-demo.now.sh**
 
-### `npm run build`
+React Hooks Demo is inspired by Dan Abramov Demo in React Conf 2018
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![react-hooks-demo](https://res.cloudinary.com/donswan/image/upload/v1551255414/react-hooks-demo/react-hooks-demo.png)
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+----
+## 🌈 What are Hooks?
+> Hooks let you use state and other React features without writing a class. You can also build your own Hooks to share reusable stateful logic between components.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**[Read on the react blog for more about hooks.](https://reactjs.org/blog/2019/02/06/react-v16.8.0.html)**
 
-### `npm run eject`
+----
+## ⭐ Demo Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Clone this repository and enter on the repo directory by typing on the terminal:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+git clone https://github.com/donycisne/react-hooks-demo.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+cd react-hooks-demo
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Now you need to install all the dependencies by typing on the terminal:
 
-## Learn More
+```
+yarn or npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Finally you can start the app by typing on the terminal:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+`````
+yarn start or npm start
+`````
 
-### Code Splitting
+----
+## 📚 Learning
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* **[An introduction to React Hooks](https://medium.freecodecamp.org/an-introduction-to-react-hooks-12843fcd2fd9)**
+* **[Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)**
+* **[React Hooks Tutorial for Beginners: Getting Started With React Hooks (2019)](https://www.valentinog.com/blog/hooks/)**
+* **[Simplify React Apps with React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)**
+* **[Collection of React Hooks](https://nikgraf.github.io/react-hooks/)**
+* **[useHooks](https://usehooks.com/)**
