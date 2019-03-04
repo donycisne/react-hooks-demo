@@ -133,3 +133,12 @@ section input {
     margin: 0 auto;
   }
 }
+
+@media (max-height: 515px) {
+  html {
+    height: auto;
+  }
+  body  {
+    margin: 20px 0;
+  }
+}
